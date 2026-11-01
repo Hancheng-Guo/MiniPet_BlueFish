@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\final\\spritesheet-extended.png",
-  "encoded_bytes": 3801221,
-  "sha256": "27810fec64d271cf3461526d7b58c63db5dc86687491f95325afa75d7d8a772d",
+  "file": ".\\spritesheet.png",
+  "encoded_bytes": 3736385,
+  "sha256": "3716e429ece512167d8e03bf99358439218728f8744223032acf5912150172e3",
   "format": "PNG",
   "mode": "RGBA",
   "columns": 8,

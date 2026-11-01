@@ -13,7 +13,7 @@
     "rows": 11,
     "cell_width": 192,
     "cell_height": 208,
-    "sha256": "1b35c7ac58f7c0c1d314821dfc633c217a7c0a81c49b7a226c843a8822707d9f"
+    "sha256": "b5b964ebf8b07b2a0857cf0be83b6569ce940f4c96920295fb2ab162aa5fd4ae"
   },
   "frames": [
     {
@@ -22,7 +22,7 @@
       "row": 0,
       "column": 0,
       "file": "逐帧PNG/idle/00.png",
-      "sha256": "f84e197cbc4097640ae8bd1b0d04442c53fce8e0f397e43ace72978def30c45f"
+      "sha256": "64b699dbcebf14c12b1b1d398ccab91d96a673e94c593393ce44f2a8cbd743fb"
     },
     {
       "state": "idle",
@@ -30,7 +30,7 @@
       "row": 0,
       "column": 1,
       "file": "逐帧PNG/idle/01.png",
-      "sha256": "3e2e58744ee002b908f535ac724b7736018bc3a02cb43af9bf9a686d5ab9e3ca"
+      "sha256": "d33af75e195a8660242c155035322b67d7bed794eb9546f27ff05a3da6c42cbc"
     },
     {
       "state": "idle",
@@ -38,7 +38,7 @@
       "row": 0,
       "column": 2,
       "file": "逐帧PNG/idle/02.png",
-      "sha256": "baea0068dfe5f24fca82a5b2d9104f1ef6c1ad7b8f5e682694144c709a60fb0d"
+      "sha256": "112afb50929d28dddef0462f2a05c847c2a989cf375cebc804d59e2c57850a9a"
     },
     {
       "state": "idle",
@@ -46,7 +46,7 @@
       "row": 0,
       "column": 3,
       "file": "逐帧PNG/idle/03.png",
-      "sha256": "007871b54c256386ec9038ee3ed2785dbbee22e789d121a64c5ee0574def1a5a"
+      "sha256": "a1e3464575625f6925ce6d221e95ec73a445f36ddfaf9652568f2aa1551dbf10"
     },
     {
       "state": "idle",
@@ -54,7 +54,7 @@
       "row": 0,
       "column": 4,
       "file": "逐帧PNG/idle/04.png",
-      "sha256": "4f2711168d36f500dafd1b1fe87ab64a26580e46664a709e10f76010026e0db2"
+      "sha256": "8f321f99435f2f9b4d3a2796d2e0e67d587d072de20bbf3519f75bff70b4c8bd"
     },
     {
       "state": "idle",
@@ -62,7 +62,7 @@
       "row": 0,
       "column": 5,
       "file": "逐帧PNG/idle/05.png",
-      "sha256": "68ec18e12c4fb6cede462fc4776f3e3e2c23beed43dddd21e1dee19f7d7a75ec"
+      "sha256": "eec7afe151d5da92aacb54425ec825140193486d9e8df1100038df02cb2e8f5d"
     },
     {
       "state": "running-right",
@@ -70,7 +70,7 @@
       "row": 1,
       "column": 0,
       "file": "逐帧PNG/running-right/00.png",
-      "sha256": "fb3b958b6a9e8022ea460f4c4cf78670ce4ac9563300b6fb1ede327424aad8b0"
+      "sha256": "771f1c7baafb2e474c1e23324711176a1c331b7e34619d1c2ae3d44293a4868b"
     },
     {
       "state": "running-right",
@@ -78,7 +78,7 @@
       "row": 1,
       "column": 1,
       "file": "逐帧PNG/running-right/01.png",
-      "sha256": "983bb160c8ac02305433aba1c0a79166cf06136edd7a76b06e45538138529c6e"
+      "sha256": "c17e6acec3506b32b4444b0bd281f5195a9008090b1216737e3865b304bf1f35"
     },
     {
       "state": "running-right",
@@ -86,7 +86,7 @@
       "row": 1,
       "column": 2,
       "file": "逐帧PNG/running-right/02.png",
-      "sha256": "0984ae83b00ae84fac647bc0ebceb64d8740b44cfe398653b4f2d950849a20e1"
+      "sha256": "7940600c1074c8dd42e4da3573e4fac3f11db00b9de4cdacea026c0207c7380f"
     },
     {
       "state": "running-right",
@@ -94,7 +94,7 @@
       "row": 1,
       "column": 3,
       "file": "逐帧PNG/running-right/03.png",
-      "sha256": "fd1156ab8958c115a48226e725bd63a610a9760fa31e93b1f4b6e0444f2deefd"
+      "sha256": "dfd15336b49f7b14acde744dd761ba457e6fb144fdfa4809ea223c16cc76863b"
     },
     {
       "state": "running-right",
@@ -102,7 +102,7 @@
       "row": 1,
       "column": 4,
       "file": "逐帧PNG/running-right/04.png",
-      "sha256": "a4f7cbc1146d48f943a0931b9f188eb2adb44c1c5cd6da3283a493ea9db0cb6f"
+      "sha256": "f7318262a86d300449d5325a7241d2bcda12f905364c1a2ace6ba61ad6665679"
     },
     {
       "state": "running-right",
@@ -110,7 +110,7 @@
       "row": 1,
       "column": 5,
       "file": "逐帧PNG/running-right/05.png",
-      "sha256": "a834e0bf3afae6723854e8af859e11acf3d5f5d6033bb6fb70645c4081268aa4"
+      "sha256": "437f18d4df26e551acb4a424baf655a1abd2ef4852117bc6526f1012537c4a7b"
     },
     {
       "state": "running-right",
@@ -118,7 +118,7 @@
       "row": 1,
       "column": 6,
       "file": "逐帧PNG/running-right/06.png",
-      "sha256": "49694dfa82195af6cfb52d8ff2641f27d2eb9fa9c2ed4d9563159cf0f818e4c6"
+      "sha256": "62092f75e669dcc0c0a270224f9efb7bb9281041908c2e747f594d05e4239013"
     },
     {
       "state": "running-right",
@@ -126,7 +126,7 @@
       "row": 1,
       "column": 7,
       "file": "逐帧PNG/running-right/07.png",
-      "sha256": "f4c8f2312a1f9d383df547ddaeb8b9e269225cb50ef9a492c932d48e1544586c"
+      "sha256": "105d8bb8c13af299c67bdf9f7b5a393bf271b0913bc76ddc5866b5089d2548c3"
     },
     {
       "state": "running-left",
@@ -134,7 +134,7 @@
       "row": 2,
       "column": 0,
       "file": "逐帧PNG/running-left/00.png",
-      "sha256": "e798bd34776543c404e10325bd18b1bcf608c16434346dfdae99617b3ea8a10f"
+      "sha256": "192e34fc72257fc9f34756fe174eb73667ecc4c986feaa2f4e2e5f049e0274ff"
     },
     {
       "state": "running-left",
@@ -142,7 +142,7 @@
       "row": 2,
       "column": 1,
       "file": "逐帧PNG/running-left/01.png",
-      "sha256": "73ad237f141595b287965d0d526af28882c069839100f7db72705dc654e74472"
+      "sha256": "93cdc511fa8c75875a768c938a2aefe50c0232337cf879b20ea8c0dd997628f0"
     },
     {
       "state": "running-left",
@@ -150,7 +150,7 @@
       "row": 2,
       "column": 2,
       "file": "逐帧PNG/running-left/02.png",
-      "sha256": "509719d557ed1acf751dd6554627a6d6b13540bafabaf8aa25acebc52b098cf6"
+      "sha256": "c0012e8a1d81fd5c35c4ecc4c269765949b5a0fccb87761ab3b97d869f175ea7"
     },
     {
       "state": "running-left",
@@ -158,7 +158,7 @@
       "row": 2,
       "column": 3,
       "file": "逐帧PNG/running-left/03.png",
-      "sha256": "3c3fd3d6ce13a39d937960925c63695e44282bd40eb2bd55601c56fbbeba4649"
+      "sha256": "c203a753f3a82d3277dba2e50c412ea402b533481b4f217c94fbbfce8e8a494a"
     },
     {
       "state": "running-left",
@@ -166,7 +166,7 @@
       "row": 2,
       "column": 4,
       "file": "逐帧PNG/running-left/04.png",
-      "sha256": "249eb5b8e6b2d7903aa439d9e8f4794569e8f3c5812f239ee61ef0512394eddc"
+      "sha256": "9bb44fdaa79546d312851f1ea0590605c8ac3c50bd3b69ecfe3b76cd11ea4091"
     },
     {
       "state": "running-left",
@@ -174,7 +174,7 @@
       "row": 2,
       "column": 5,
       "file": "逐帧PNG/running-left/05.png",
-      "sha256": "dd1b2b0f07bbcd3ab8d6cd4cd7e32acc3f27419206622ee29b9de869164cb6eb"
+      "sha256": "4bbaee4f73d469278a5a1849061d1088ffda5c812b054a4ef61518bcd82b448d"
     },
     {
       "state": "running-left",
@@ -182,7 +182,7 @@
       "row": 2,
       "column": 6,
       "file": "逐帧PNG/running-left/06.png",
-      "sha256": "6287710fc2aa5db7205be28ed8cd2b37779a281d22fb47622f657257393ce9b7"
+      "sha256": "862554ef5449861cb7dc1240af83f4a637380028719dfea59d5685c85e291156"
     },
     {
       "state": "running-left",
@@ -190,7 +190,7 @@
       "row": 2,
       "column": 7,
       "file": "逐帧PNG/running-left/07.png",
-      "sha256": "a394ef0de9b5913441a898cf1aa5ed61a32d9f51fa8b405ea30d9db6ebfd0328"
+      "sha256": "ac2b6699cdb6abbcd8cf33a27e1221d4a044528f4488ee0b9f0c80c677143835"
     },
     {
       "state": "waving",
@@ -198,7 +198,7 @@
       "row": 3,
       "column": 0,
       "file": "逐帧PNG/waving/00.png",
-      "sha256": "7aeb551b95232290e8bcfe3e80fda8b6e33d2253e55b82b057ee483e806d03e5"
+      "sha256": "a6bfd4ea183b63143ecefa00cfff302aa72d1fdb89f44f536bf0e68fff445687"
     },
     {
       "state": "waving",
@@ -206,7 +206,7 @@
       "row": 3,
       "column": 1,
       "file": "逐帧PNG/waving/01.png",
-      "sha256": "2723dd8376ddca3c58a25d7c15a642fba762cd239b0d22b5cf0ad595b0643437"
+      "sha256": "848d7fe02b22abc2a52ede703481edb63b329c68e0117debfaec7b638631ada6"
     },
     {
       "state": "waving",
@@ -214,7 +214,7 @@
       "row": 3,
       "column": 2,
       "file": "逐帧PNG/waving/02.png",
-      "sha256": "49e5dc56abafed68e2caaedfadab03bc806346c007a54e2e9b18fd5d27bca1a2"
+      "sha256": "631240007e3887bcdb9cea2b86efeb4ee99294e929b90f386298ca4153c07c7c"
     },
     {
       "state": "waving",
@@ -222,7 +222,7 @@
       "row": 3,
       "column": 3,
       "file": "逐帧PNG/waving/03.png",
-      "sha256": "35d5f64ecb37e38104442b1329bf113db6f6d63e54b566331723038fda1da7a5"
+      "sha256": "46e13d718482fad4ba9037bed75c76e32ccbad27dc7fffdaf7b0dfb0e8d92f1a"
     },
     {
       "state": "jumping",
@@ -230,7 +230,7 @@
       "row": 4,
       "column": 0,
       "file": "逐帧PNG/jumping/00.png",
-      "sha256": "792afbf02da593f7e0c555e40bf5d0533e1a0370c01316edef31b9388358f28f"
+      "sha256": "e41ee7962724f6ae876ece7fc9fead85daa9280a1dd6d1e3c534e194d65a0d9b"
     },
     {
       "state": "jumping",
@@ -238,7 +238,7 @@
       "row": 4,
       "column": 1,
       "file": "逐帧PNG/jumping/01.png",
-      "sha256": "d5e94a60b51ee19f77a1ec127cde904ceb12de7a5fe5432d2380144618c25ae6"
+      "sha256": "6d8e2339fc64d821fcc25e14818242a09859564e41bda2b4d6eb8dab3d8b0793"
     },
     {
       "state": "jumping",
@@ -246,7 +246,7 @@
       "row": 4,
       "column": 2,
       "file": "逐帧PNG/jumping/02.png",
-      "sha256": "db0fc6017ed3a3113fcb0dd5fe01c18bf8b1b956d7386a3bbd2cf579f15f56fb"
+      "sha256": "a5e67166dcd122b734077606dd2a29ccabbe1e778b7f28160801c894e0cc2670"
     },
     {
       "state": "jumping",
@@ -254,7 +254,7 @@
       "row": 4,
       "column": 3,
       "file": "逐帧PNG/jumping/03.png",
-      "sha256": "04e669d6fa9e29753f704c7a46a5ba28941a0f2d045ce229b2ba2b29b258e463"
+      "sha256": "34333d493ced21b4c4a57886b5a564e56a755f05bd594fdf2c01ac4a55a27cb5"
     },
     {
       "state": "jumping",
@@ -262,7 +262,7 @@
       "row": 4,
       "column": 4,
       "file": "逐帧PNG/jumping/04.png",
-      "sha256": "fc0f3daf55485ae3620c35fbd0c40fff616576d9704e309136da0a7919df11e1"
+      "sha256": "28f637b5c55d06c7773c62dff98d02729f0f5285f67ed810be7bda9af199cca2"
     },
     {
       "state": "failed",
@@ -270,7 +270,7 @@
       "row": 5,
       "column": 0,
       "file": "逐帧PNG/failed/00.png",
-      "sha256": "cee8d7c5a6cdeb27e0fdc49be5c39bc1003ca9e8b981bd9af979c43a004c669b"
+      "sha256": "37bda849d55531bb8f650391e8c1b6cc30484e7c48854f23dbeb5c3ca05e0c39"
     },
     {
       "state": "failed",
@@ -278,7 +278,7 @@
       "row": 5,
       "column": 1,
       "file": "逐帧PNG/failed/01.png",
-      "sha256": "03623b839a2f50b2bd392b9d25a01d9091d7826b0dfa7464ab642ed1469abe0f"
+      "sha256": "539677424de95d8c72e58e721dc2bbc8d3328f89a21c68562f2d33de7e0447c9"
     },
     {
       "state": "failed",
@@ -286,7 +286,7 @@
       "row": 5,
       "column": 2,
       "file": "逐帧PNG/failed/02.png",
-      "sha256": "2bb33275c190fc45ee3f0352fbd411ea456659f87a0d752631d3fef70a3c6359"
+      "sha256": "e2c9a10fa3f4738d31aee13c924fbf478fe6518f10e7f2a37517835eb3641940"
     },
     {
       "state": "failed",
@@ -294,7 +294,7 @@
       "row": 5,
       "column": 3,
       "file": "逐帧PNG/failed/03.png",
-      "sha256": "5e7a104dc0d4ca32830a148990d48edd39aa32097fcdacf7688e4a9dadf2dc69"
+      "sha256": "49f4d8c0a144a9009822a1d3321ee363991f561398e394908ef17d5babe8ec2c"
     },
     {
       "state": "failed",
@@ -302,7 +302,7 @@
       "row": 5,
       "column": 4,
       "file": "逐帧PNG/failed/04.png",
-      "sha256": "91b51faceb9bcf9260c7d670695b005617f26f23a65aa21832819c18900faa31"
+      "sha256": "26ac6064de5a545e231e89493e45bb0005c146752f91245c3f74311610391f31"
     },
     {
       "state": "failed",
@@ -310,7 +310,7 @@
       "row": 5,
       "column": 5,
       "file": "逐帧PNG/failed/05.png",
-      "sha256": "2afe8d50b45d3247b643022ec305e613210af2e37c6b037e6262d50074b87b57"
+      "sha256": "5d1012f1d8e5b4bdb0a54537fc6a62a6f338442ea092a972474958da9961b95a"
     },
     {
       "state": "failed",
@@ -318,7 +318,7 @@
       "row": 5,
       "column": 6,
       "file": "逐帧PNG/failed/06.png",
-      "sha256": "e96c80ced71e363d08dd68fbb57ee20d45d4c54ed682f339f0b1db8b6ae43ef5"
+      "sha256": "e1e4cb082d68a9761f753462bc1512aa08a559e9b3d0f059336e886f9813a3b6"
     },
     {
       "state": "failed",
@@ -326,7 +326,7 @@
       "row": 5,
       "column": 7,
       "file": "逐帧PNG/failed/07.png",
-      "sha256": "54e75c32ff4f467fcd990740e8b6045ab181b9fc48230391a79f44b79d0376df"
+      "sha256": "b9146d0fa63430f66f403652f7c711aaf736a78daf9b766448115fd55e7dec26"
     },
     {
       "state": "waiting",
@@ -334,7 +334,7 @@
       "row": 6,
       "column": 0,
       "file": "逐帧PNG/waiting/00.png",
-      "sha256": "5cd950759359208de7c62a5fff517f6a3076bae9f0981e69c3785d627445be3f"
+      "sha256": "88dfc53d4be51ec43b36db7d4756442d75f0efb47424caa9b4b0f3bb018e3e52"
     },
     {
       "state": "waiting",
@@ -342,7 +342,7 @@
       "row": 6,
       "column": 1,
       "file": "逐帧PNG/waiting/01.png",
-      "sha256": "b7039638eff3e776844c87572119cee994efe24ded0acf620eb21e37fdf8eeb6"
+      "sha256": "e5fa6c301227a84a783e69eb5cac8a9a40e6505c17a0c88e0f348ed13470d74a"
     },
     {
       "state": "waiting",
@@ -350,7 +350,7 @@
       "row": 6,
       "column": 2,
       "file": "逐帧PNG/waiting/02.png",
-      "sha256": "f93bbf52a17880e16a9cd287754eb217ed7213364428e6ffd6c7e9963ee0dd86"
+      "sha256": "d2651c65b4606dcf1532a4f3de1bf7cc5fb438a00b4349538c84370c8cc7fd50"
     },
     {
       "state": "waiting",
@@ -358,7 +358,7 @@
       "row": 6,
       "column": 3,
       "file": "逐帧PNG/waiting/03.png",
-      "sha256": "7cb413bd06e2c9a8630ac4f3fed830d9b6c31344e7b7b7f81bb89e65677b3446"
+      "sha256": "135ff9800362cbcbd29b6ac07a3fc81fa484f04f04ceeacd1edb62687b6a7609"
     },
     {
       "state": "waiting",
@@ -366,7 +366,7 @@
       "row": 6,
       "column": 4,
       "file": "逐帧PNG/waiting/04.png",
-      "sha256": "3c97b29323ea04d895ae857554edb9e8352aaa353f82af1931cf35087baa3c81"
+      "sha256": "baedc1e081e912359cd4301d33e229800b67a4f0c4c0c74120a37670111ff756"
     },
     {
       "state": "waiting",
@@ -374,7 +374,7 @@
       "row": 6,
       "column": 5,
       "file": "逐帧PNG/waiting/05.png",
-      "sha256": "27e72a616b16832b7df96a12b2c248adcfb745de86ae5d19c2d83c5f144a16bb"
+      "sha256": "a861ac366d281dbb897bfbe6f7caad93e8ee43512dcc5ef4341446bfb3f485bf"
     },
     {
       "state": "running",
@@ -382,7 +382,7 @@
       "row": 7,
       "column": 0,
       "file": "逐帧PNG/running/00.png",
-      "sha256": "2ae41e78fa608ccabd9edfa0ab3a59fbb0b1021e7dd9729793c78c7062efc496"
+      "sha256": "2576fd3e392316a7d6c468bddfc7a50e9eaf473950a9f2ecee064c30247ee94c"
     },
     {
       "state": "running",
@@ -390,7 +390,7 @@
       "row": 7,
       "column": 1,
       "file": "逐帧PNG/running/01.png",
-      "sha256": "f17f06b393b9832190422b344ccaad27f1a6babf9eb5a4752fdf7ea72750e486"
+      "sha256": "9abab5747948c81980f3650f47443ab676920b8c67076ee1910cb1cd8ff31399"
     },
     {
       "state": "running",
@@ -398,7 +398,7 @@
       "row": 7,
       "column": 2,
       "file": "逐帧PNG/running/02.png",
-      "sha256": "3d0ac430458d200a734ed0ded1d1f8b8cc9080224b553fb6e5851ae2b38959c7"
+      "sha256": "928772dd729601a781251b05ee301557c021e2921e486df33250ceb8d6868a32"
     },
     {
       "state": "running",
@@ -406,7 +406,7 @@
       "row": 7,
       "column": 3,
       "file": "逐帧PNG/running/03.png",
-      "sha256": "8f0e7b1b46e14bfb7887d20eb48f4c3e9e09957534cf51e44bbd23562a4b15a0"
+      "sha256": "cc63c074f08d67a24e7420fe6271b5eafa17241b095705d2f840b817c4c0d79c"
     },
     {
       "state": "running",
@@ -414,7 +414,7 @@
       "row": 7,
       "column": 4,
       "file": "逐帧PNG/running/04.png",
-      "sha256": "9a2fcfe517ac7020b60a89435ea7430a90ea5e13c8b05f904442469f9f994c01"
+      "sha256": "b4098f8891e0ef174949c72cccd50523666fd1d269b428ff8eab6e35bca0d1ce"
     },
     {
       "state": "running",
@@ -422,7 +422,7 @@
       "row": 7,
       "column": 5,
       "file": "逐帧PNG/running/05.png",
-      "sha256": "51df6bdf16da31297a91dde5a8da25873fe2931c8ff7f5c833e3ab71a295fa62"
+      "sha256": "3f41458d3770657155aa6b402344ca1002b73662e269016ded985c736d650b09"
     },
     {
       "state": "review",
@@ -430,7 +430,7 @@
       "row": 8,
       "column": 0,
       "file": "逐帧PNG/review/00.png",
-      "sha256": "1cdc49de6210f52a8e5beeba7cf3b043c1a7cd2609e53eb4f026976933d255c6"
+      "sha256": "cd670ee56aae38b1d51f9c9cbc2e181d3d8b1c69b0b55570dfb1e5f26c6f62f6"
     },
     {
       "state": "review",
@@ -438,7 +438,7 @@
       "row": 8,
       "column": 1,
       "file": "逐帧PNG/review/01.png",
-      "sha256": "09f5ba77a8cb1a47452c82a71ff1112e441b82b249724d14d1182d707c32809e"
+      "sha256": "e3e4e5f657129bf17b91f0423c9e1ee74ba04eb22e729eb4e4b3fcc08ff9f56a"
     },
     {
       "state": "review",
@@ -446,7 +446,7 @@
       "row": 8,
       "column": 2,
       "file": "逐帧PNG/review/02.png",
-      "sha256": "7578572093036b5f0bc927e27c81430057756ceea84decdf84d29b1316e69369"
+      "sha256": "1533f2d3ca8c11b354e75064adce8d0886a9307f063f3bbdf3a532256958de64"
     },
     {
       "state": "review",
@@ -454,7 +454,7 @@
       "row": 8,
       "column": 3,
       "file": "逐帧PNG/review/03.png",
-      "sha256": "545d7e10b51ae50e01e7dc442649c5bf4cda843a7957e2ea7069b750172f79a0"
+      "sha256": "8c51a3f8b9d928ab0676793876aefa25556c12fb3ff00ad256e08a3e023a9190"
     },
     {
       "state": "review",
@@ -462,7 +462,7 @@
       "row": 8,
       "column": 4,
       "file": "逐帧PNG/review/04.png",
-      "sha256": "839a53b5daca7e9c66da83866eaa67b746befccdb83a337dd3658317dc891e3f"
+      "sha256": "c0c47a3ba8303f1333983bdded8477ce9e3451097d11eb418b01ed420cbe4a70"
     },
     {
       "state": "review",
@@ -470,7 +470,7 @@
       "row": 8,
       "column": 5,
       "file": "逐帧PNG/review/05.png",
-      "sha256": "e44dca928165969cf6afe000b64a2de76be12a497b0beda6c222a29293e9ce49"
+      "sha256": "48ff231e44657242ac6d9ab569cb80bee7030b2b3c9dd1d04ff42c67f0334496"
     },
     {
       "state": "look",
@@ -478,7 +478,7 @@
       "row": 9,
       "column": 0,
       "file": "逐帧PNG/look/00.png",
-      "sha256": "5d73a64eb6ad713638c9ca2ea5717fa50c1025f118779bc37b536c9a35649b53",
+      "sha256": "5bee8845c31288fab4bde2d6c62720f709b6663feffd0a85a6dfeb8d3bf019d6",
       "angle_degrees": 0.0
     },
     {
@@ -487,7 +487,7 @@
       "row": 9,
       "column": 1,
       "file": "逐帧PNG/look/01.png",
-      "sha256": "0e8296be93552297cd0284257077548ba7631223fdb36ef59da6d1e8161f5b33",
+      "sha256": "465cf2ccd621b48da431edf05fef78cf5955d8a30ad5cc91af354425418b510c",
       "angle_degrees": 22.5
     },
     {
@@ -496,7 +496,7 @@
       "row": 9,
       "column": 2,
       "file": "逐帧PNG/look/02.png",
-      "sha256": "b79821963feeeb36c1e10f637b307324312eaa7c3256b024b7fec6d347a39502",
+      "sha256": "175384e3874a0934b856d2a32b9e1a01bb5aee9aec6469648827502aeb2eeb94",
       "angle_degrees": 45.0
     },
     {
@@ -505,7 +505,7 @@
       "row": 9,
       "column": 3,
       "file": "逐帧PNG/look/03.png",
-      "sha256": "1a324e1f864d678d14f948a3c99badd5ae566fb4f92b9d1c9812c38812126c93",
+      "sha256": "725f6839739a8176a153efe6b0a83a03907440c27c3c621bbf6ba8f397240f74",
       "angle_degrees": 67.5
     },
     {
@@ -514,7 +514,7 @@
       "row": 9,
       "column": 4,
       "file": "逐帧PNG/look/04.png",
-      "sha256": "0304eb8c55557450867a8e17aa95e07bf336049f38570506f5e2b2892d035bc8",
+      "sha256": "0c8a798a8371bb2e60098a4d1913b112b4cf0a2162c375b380cda85d5b2d0ee3",
       "angle_degrees": 90.0
     },
     {
@@ -523,7 +523,7 @@
       "row": 9,
       "column": 5,
       "file": "逐帧PNG/look/05.png",
-      "sha256": "c2e27e8102c999e902b5c989dec6abc0b54d30e142e0fb7b60101369dfffaab4",
+      "sha256": "81891ab2c187842831334782f86944bc6572832fa22ddd1e664844b42a4a200e",
       "angle_degrees": 112.5
     },
     {
@@ -532,7 +532,7 @@
       "row": 9,
       "column": 6,
       "file": "逐帧PNG/look/06.png",
-      "sha256": "8994e1a0cca51d3eb738bd7588dfa630a3d1f3a72d78c84761bb010c50ed2a4f",
+      "sha256": "b5a83c95ab3104a5ec9ac70b8c30ee250d2677d7e1ea3d3a4ad467e3902143c3",
       "angle_degrees": 135.0
     },
     {
@@ -541,7 +541,7 @@
       "row": 9,
       "column": 7,
       "file": "逐帧PNG/look/07.png",
-      "sha256": "f6afc961e17bd439379c593191257eb23993e7f058012cd2a17b01fddb4efbf3",
+      "sha256": "b504cfe6b52f7d4f498c6a033edf30ad1418399204fa70b528f0c774185ae675",
       "angle_degrees": 157.5
     },
     {
@@ -550,7 +550,7 @@
       "row": 10,
       "column": 0,
       "file": "逐帧PNG/look/08.png",
-      "sha256": "431b8df565bf022dd23152490e76025b88723b73c3e962c09e447f440cb22169",
+      "sha256": "6334ff53bb5d6d2aa9030aef1a7f9cbd997c75e0e45735b1d997237c3d98352c",
       "angle_degrees": 180.0
     },
     {
@@ -559,7 +559,7 @@
       "row": 10,
       "column": 1,
       "file": "逐帧PNG/look/09.png",
-      "sha256": "345f06f7690da0b8c9b5a635a20eed613c06be2d4cf82f076e07dca0454b8dbc",
+      "sha256": "429b627a88427e61d055ff6959e156e6fcf290e9400c6ae91ae9a5d17b62066f",
       "angle_degrees": 202.5
     },
     {
@@ -568,7 +568,7 @@
       "row": 10,
       "column": 2,
       "file": "逐帧PNG/look/10.png",
-      "sha256": "0821d474586bf738809d85178770b97b84a193bc10ffed9e43670e36022ccda1",
+      "sha256": "f29fe875a26072b8bb59904166614ac26aee017d2bfa42e024496efb05452600",
       "angle_degrees": 225.0
     },
     {
@@ -577,7 +577,7 @@
       "row": 10,
       "column": 3,
       "file": "逐帧PNG/look/11.png",
-      "sha256": "2fff09d4a982a9a8cea5fa52096c8752df46ad0096967e6da99d932c1a176139",
+      "sha256": "f7351b82899edb60b30b338749f803b6790cf0aa294025298b5e85152da37417",
       "angle_degrees": 247.5
     },
     {
@@ -586,7 +586,7 @@
       "row": 10,
       "column": 4,
       "file": "逐帧PNG/look/12.png",
-      "sha256": "cd93d09c76cfa0771fa7f6ed004612159a1c6e500f481a6332d8922df9a35174",
+      "sha256": "29cbab2dacd2c1f620184e8d8c5d5fe25dd50dba8e1bb47e63c078995727c13d",
       "angle_degrees": 270.0
     },
     {
@@ -595,7 +595,7 @@
       "row": 10,
       "column": 5,
       "file": "逐帧PNG/look/13.png",
-      "sha256": "4dc3c06fe41e475d28085d4037d5c7ed79bfa762029301d0037be77f0cb59899",
+      "sha256": "f62bb23290c0fc4bb60d4a54efc2c0f29dba9c644da0321df795d1156d6729e6",
       "angle_degrees": 292.5
     },
     {
@@ -604,7 +604,7 @@
       "row": 10,
       "column": 6,
       "file": "逐帧PNG/look/14.png",
-      "sha256": "edc280c242639a19c5a2256495e6f204cb3eacac5ab75dcf71edcb0a097840bc",
+      "sha256": "9e64f4e55f1613423fdd38180937239fa9452fd75e29bd498942e265e7a9e595",
       "angle_degrees": 315.0
     },
     {
@@ -613,12 +613,13 @@
       "row": 10,
       "column": 7,
       "file": "逐帧PNG/look/15.png",
-      "sha256": "08a08cdcaa6a1da6fea507ff2feec7dd4b59f1b6906cfab41d3887b730786cae",
+      "sha256": "5d5fa3f18dcecbc987c8eee338d3d497ec467f13a131e9d50d792ce34ce170b2",
       "angle_degrees": 337.5
     }
   ],
   "notes": [
     "jumping 为平台标准状态名；本项目沿用吃白米饭的悬停动作。",
     "此清单用于本地素材管理，并非 ChatGPT 官方导入配置。"
-  ]
+  ],
+  "build_record": "验证/构建记录.json"
 }

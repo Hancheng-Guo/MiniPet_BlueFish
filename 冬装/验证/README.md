@@ -1,12 +1,12 @@
 # 验证记录 · 冬装
 
-本目录原有 JSON 均为历史生成时保留的原始报告，未修改其中的绝对路径和检查结果。原机器路径用于追溯，当前素材路径以 `../素材清单.json` 为准。
+本目录报告均来自当前创作素材的本地重建。
 
-- `validation-extended.json`：原精灵图检查。
-- `review.json`：原动作帧检查。
-- `chroma-despill-extended.json`：原色键边缘处理记录。
-- `direction-semantics.json`、`look-continuity.json`：原方向语义与连续性检查。
-- `pet-quality.json`：原质量汇总，包含最终图 SHA-256 和告警。
-- `素材完整性.json`：本次整理后的本地文件与单帧对应检查，不是正式质量验收。
+- `构建记录.json`：输入图像、构建工具与全部派生文件的 SHA-256，用于追踪当前源图到输出的依赖。
+- `素材完整性.json`：尺寸、帧数及单帧与精灵图的对应情况。
+- `validation-extended.json`：创建技能脚本对当前最终 PNG 的本地结构检查。
+- `review.json`：基于连通姿势提取的动作帧检查。
+- `chroma-despill-extended.json`：当前精灵图的绿幕边缘去色溢记录。
+- `look-continuity.json`：当前方向帧的数值连续性检查，包含可能需要人工查看的提示。
 
-原 `pet-quality.json` 虽记录 `ok: true`，但同时记录 `airborne_lift_pixels: 0` 及方向孔洞、首尾连续性告警。保留这些事实；不将历史通过结果等同于当前技能的完整验收。重新创建或替换时，应对最终字节重新执行正式检查和平台预检。
+这些记录不等于完整画面语义验收或线上预检；不会凭尺寸、帧数正确就宣称画面质量通过。旧报告由 Git 历史保存。修改源图后应重新执行构建，避免使用过期报告。

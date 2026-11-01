@@ -1,0 +1,489 @@
+{
+  "dependency_order": [
+    "创作素材/三视图.jpg",
+    "创作素材/基础造型.png",
+    "创作素材/动作与方向源图",
+    "精灵图、逐帧图、动作与方向总览",
+    "预览/"
+  ],
+  "note": "三视图到基础造型、基础造型到动作源图为已完成的美术步骤；脚本从现有动作源图确定性构建派生文件，不重新生成角色。",
+  "source_files": [
+    {
+      "file": "创作素材/三视图.jpg",
+      "sha256": "b3429815d105fb8a409ca4d479760604e2e03a5999a9e128f5f7a9a21f37b5f8"
+    },
+    {
+      "file": "创作素材/基础造型.png",
+      "sha256": "fd9d0fac9c0599fc9b90be91063261433fd0eb1ebe095a82065a633e67761a3e"
+    },
+    {
+      "file": "创作素材/idle.png",
+      "sha256": "8738e0121bd3b99a51d4be96c53a7545fdb870c89d7760f836327f691b57fd3b"
+    },
+    {
+      "file": "创作素材/running-right.png",
+      "sha256": "0dd0e6b6c820a79ea9eed034520349fda11d92a134cbefec1fc32f727f817012"
+    },
+    {
+      "file": "创作素材/running-left.png",
+      "sha256": "aa76ff633a34a6c3aba36393be8b9d71a540247bad8d130bde0d390b30ac7b35"
+    },
+    {
+      "file": "创作素材/waving.png",
+      "sha256": "bf733f038cf2f859fc6acd5c26eba6ff194d8e5d2dddcb897f708a559f92ee8e"
+    },
+    {
+      "file": "创作素材/jumping.png",
+      "sha256": "cae1f50edea6d056f1752e7e0360b0be09fcc0224f18b00119e2bce0b61dabe1"
+    },
+    {
+      "file": "创作素材/failed.png",
+      "sha256": "778d6fdfb8fcdf2187fe2e930f926450a1e15a461f35f731f5454c12351baa82"
+    },
+    {
+      "file": "创作素材/waiting.png",
+      "sha256": "ddea08380f37aa95da6186d0d956fa6734e4ab4b970c2d32a3b1373405255ff0"
+    },
+    {
+      "file": "创作素材/running.png",
+      "sha256": "95caf7b70ffbc7449039d1d3c18ac4a147644f9aa75425cdee26935a5413893c"
+    },
+    {
+      "file": "创作素材/review.png",
+      "sha256": "4c54fc9d32637d59f6bc29517714a77b6d90447b94dd1a63f9c9ad0ce132f417"
+    },
+    {
+      "file": "创作素材/look-cardinals.png",
+      "sha256": "2dda683efcd10ccade43650a4768b3a25e54d0096da0db06d3e233c384f45eaf"
+    },
+    {
+      "file": "创作素材/look-row-9.png",
+      "sha256": "68495afa15c6a51748cb795c54ab10a1155983c21e67b4bbae907e362cd9f7c9"
+    },
+    {
+      "file": "创作素材/look-row-10.png",
+      "sha256": "ab3870565bedc6d1cac0cd23886093d1be69683b27a247d1eca8e28efbd1e251"
+    }
+  ],
+  "generated_files": [
+    {
+      "file": "contact-sheet.png",
+      "sha256": "2ad5d2efdea6b3fe3e8dd49e82f21e27f25af90435c5e8269ccd0050aed896f7"
+    },
+    {
+      "file": "directions.png",
+      "sha256": "0a5ec0966f204680c373da1bd13f136c4b9140cb32c1f828aefb4a5865a7e100"
+    },
+    {
+      "file": "spritesheet.png",
+      "sha256": "3716e429ece512167d8e03bf99358439218728f8744223032acf5912150172e3"
+    },
+    {
+      "file": "素材清单.json",
+      "sha256": "d894b04ab3fa76a621eea37e37d5b94802ccc0395dc12728f06c196e0e29cab2"
+    },
+    {
+      "file": "逐帧PNG/failed/00.png",
+      "sha256": "71b29e87d45ec83239fdbef56df2354221da9e6edf37d49e87499dea8b1bfd8e"
+    },
+    {
+      "file": "逐帧PNG/failed/01.png",
+      "sha256": "3f2eebfe8bf9e76fd674de07886c04b0d65e890172e61f935723a81524a6be87"
+    },
+    {
+      "file": "逐帧PNG/failed/02.png",
+      "sha256": "a9121c975c0d4decc74f13b244633c6f2108ca46914c9d34b313f2e985ad089a"
+    },
+    {
+      "file": "逐帧PNG/failed/03.png",
+      "sha256": "c11af8ba6343c2d016dc541f083e8e0a8bbd4c677c4a5ef30b37085140f7ca94"
+    },
+    {
+      "file": "逐帧PNG/failed/04.png",
+      "sha256": "b7e4d5253ea35380662a2bea1ec29e5f7b751cc01b89618cd7c2f84171c17a09"
+    },
+    {
+      "file": "逐帧PNG/failed/05.png",
+      "sha256": "37ff259433b103b3450f2b264af493f75ca5767784ecde50a66a1bceb4826b8a"
+    },
+    {
+      "file": "逐帧PNG/failed/06.png",
+      "sha256": "ea48ebd937fcdabdda48231f7f1b8a8e5e7a646d52ea68ac56434f6c98d447f0"
+    },
+    {
+      "file": "逐帧PNG/failed/07.png",
+      "sha256": "9d2983a6df5bafe1dda4fb3e1a876e82f3783384d6572e9f47cb3f5de17ba19a"
+    },
+    {
+      "file": "逐帧PNG/idle/00.png",
+      "sha256": "603900be3db7dc6c6035d54bc76d65a676e99d4e6af954ccbbd3bd529ebc8868"
+    },
+    {
+      "file": "逐帧PNG/idle/01.png",
+      "sha256": "69e5430fc9a71677f394db30e43b0c23232dec80a1af68c9f6ea20187d71997d"
+    },
+    {
+      "file": "逐帧PNG/idle/02.png",
+      "sha256": "52600455855a423d7726495c511890b1c7e310d651f657f429efd21e570ab5dc"
+    },
+    {
+      "file": "逐帧PNG/idle/03.png",
+      "sha256": "0269e483cb6ece8b1b274b1b5f256b2b142dfb9589af2c84694f9b15f7547b9c"
+    },
+    {
+      "file": "逐帧PNG/idle/04.png",
+      "sha256": "66aa58580abe5346b9ff40df7d999cae862d741e861d21fb0cd1b8388e0ee500"
+    },
+    {
+      "file": "逐帧PNG/idle/05.png",
+      "sha256": "20cd97884fe221c0aab12daf26c1e019e339928f7d5dddafe4b316140a5babf3"
+    },
+    {
+      "file": "逐帧PNG/jumping/00.png",
+      "sha256": "0e34e1af2213bc4627d32db036fa08120156b531ef5c7e8b0d29edfccac75b78"
+    },
+    {
+      "file": "逐帧PNG/jumping/01.png",
+      "sha256": "5a2373915d5f1588e665c46c19bdc39de95bbc7b767fa0bb19959451cfb7c9cb"
+    },
+    {
+      "file": "逐帧PNG/jumping/02.png",
+      "sha256": "10726bbb8e90e7c0d229725522b3cd2318d2febcf0ff53ba3058ef6f22c63178"
+    },
+    {
+      "file": "逐帧PNG/jumping/03.png",
+      "sha256": "4417b54ab469213f09e6eb45aa84c9d7d308d5010f7d4ad476ede75523c2215e"
+    },
+    {
+      "file": "逐帧PNG/jumping/04.png",
+      "sha256": "f7dea493c73c01681e62a433aa9464f0d31fa0615c9f9230f60b72a0be0a1c73"
+    },
+    {
+      "file": "逐帧PNG/look/00.png",
+      "sha256": "d63dcaf7faa18d7d0fe7a7356e820ea2b63c96d415960111f80aaf48ca70c560"
+    },
+    {
+      "file": "逐帧PNG/look/01.png",
+      "sha256": "54558f8c541daaf329d7bd3289ba155a940bcb79e30867e3e26b73c4e37e1005"
+    },
+    {
+      "file": "逐帧PNG/look/02.png",
+      "sha256": "ef1c9c2ac0ab1dff8b0998d33c169e283a444e11948b3e5f8c72cea42d79502d"
+    },
+    {
+      "file": "逐帧PNG/look/03.png",
+      "sha256": "3b3a128264ac5d95d2ee7c14c17038f6de779b5ec3ab29a9cdad4b8336306388"
+    },
+    {
+      "file": "逐帧PNG/look/04.png",
+      "sha256": "e69e49bbf58a83a61a37ad7a6797270f8224d289a2789234c9e3a826e7ceb6b8"
+    },
+    {
+      "file": "逐帧PNG/look/05.png",
+      "sha256": "0f20dc6247f29f463844d5332470fd7bdc44784a96f70355b41811c077b2c900"
+    },
+    {
+      "file": "逐帧PNG/look/06.png",
+      "sha256": "f14b41225eebd0545956db3553fd4870b988b387ee24f1aace3aa6d20bbeee2f"
+    },
+    {
+      "file": "逐帧PNG/look/07.png",
+      "sha256": "dceba396533753344d383b55f5ee368ade8957cd5d8c14ad2532dd594b268301"
+    },
+    {
+      "file": "逐帧PNG/look/08.png",
+      "sha256": "e3fdf6e81dfdbd83d5eaa115930cb3a7d72c76e2bb231d91b4c07f328254213e"
+    },
+    {
+      "file": "逐帧PNG/look/09.png",
+      "sha256": "a5f4c9a334ce128983980a5c99d42fdcdbf66e1c8007ef57d8b14c2131f46d25"
+    },
+    {
+      "file": "逐帧PNG/look/10.png",
+      "sha256": "9d9ca24440922be69bc85f128507a835dc4ed8c79ea5d4aa3cb8d454aeceef16"
+    },
+    {
+      "file": "逐帧PNG/look/11.png",
+      "sha256": "6f73b2a676dd0a9681054217059a6e71d74bf7761a492a44cacfc9946ff600fa"
+    },
+    {
+      "file": "逐帧PNG/look/12.png",
+      "sha256": "a112be91981a18262eb6f2a7aac68cdba7f675e416564a88aeed3e91a15481a0"
+    },
+    {
+      "file": "逐帧PNG/look/13.png",
+      "sha256": "bb7fbb5c4dcff26ab9e088e10b47d0e0f4b306cf12f955bbe06d8b0b17c70ed9"
+    },
+    {
+      "file": "逐帧PNG/look/14.png",
+      "sha256": "6856e541b229690e2729c41afe5c16064e617dc849e8b3f97e7f9f4f1e5d95b8"
+    },
+    {
+      "file": "逐帧PNG/look/15.png",
+      "sha256": "7e22161af9f3657cc9ebec1012d09bd9488b022c913e41bd9fc24a153843f0f8"
+    },
+    {
+      "file": "逐帧PNG/review/00.png",
+      "sha256": "649d26af787e87f570ddc2bde8c408e16de25e58ad4bab2890d4f78573ce120e"
+    },
+    {
+      "file": "逐帧PNG/review/01.png",
+      "sha256": "2e765b34c52b128dceeedbe8cc994ce51b2026df99627af74a69cab46cba775b"
+    },
+    {
+      "file": "逐帧PNG/review/02.png",
+      "sha256": "596a8f2c9fdc80720cbf0cb3b48f420c291e56cc131ffbb03bc4f2650ff539e7"
+    },
+    {
+      "file": "逐帧PNG/review/03.png",
+      "sha256": "3ed61914d0f409bf66d6617a341568dd5de74ed17626b583d50aaeecd5b1788d"
+    },
+    {
+      "file": "逐帧PNG/review/04.png",
+      "sha256": "f1a3185f778374ac5107f7d2fd5e6ed34ed9f22078fa4679ffbc9c81933f1874"
+    },
+    {
+      "file": "逐帧PNG/review/05.png",
+      "sha256": "10269ddf36a595187b65a141b69f71c840fe7ffb250d389ee27f3c0134e4d18b"
+    },
+    {
+      "file": "逐帧PNG/running/00.png",
+      "sha256": "dcb11268ced91fb4ae5ce827021e70a6405fea53dcb8f6bb92543657d77dc235"
+    },
+    {
+      "file": "逐帧PNG/running/01.png",
+      "sha256": "b2499b74095e4eb535f45c560cbe81ec155362467c62fccde9bec6e70648fe16"
+    },
+    {
+      "file": "逐帧PNG/running/02.png",
+      "sha256": "446bad238086763d1dec5b0bf4f99088735f0fefa3032173e6b646ed3acad10d"
+    },
+    {
+      "file": "逐帧PNG/running/03.png",
+      "sha256": "b9342ba18fc2152d1f24663baecbffa6a889d9c3dc96ec43f39028fc2b8766f4"
+    },
+    {
+      "file": "逐帧PNG/running/04.png",
+      "sha256": "f5bca2fc5a9dcef6ebd15dfd4fb2824ab3d49b407e24e864bbfeed210014e7d7"
+    },
+    {
+      "file": "逐帧PNG/running/05.png",
+      "sha256": "1cf1a5c80b5bc56dbc56572717a8d0c3a930c447bdf792301b5282a5eb75c3fd"
+    },
+    {
+      "file": "逐帧PNG/running-left/00.png",
+      "sha256": "2615f60af3575e48bb45d01274125d0d9cfcbbf587c118e34caea059d6d784a7"
+    },
+    {
+      "file": "逐帧PNG/running-left/01.png",
+      "sha256": "bc35ff96af976dd3748ad49293a2b75d32f10d9cb9093e44b590c3377528b709"
+    },
+    {
+      "file": "逐帧PNG/running-left/02.png",
+      "sha256": "a6a414e879225fddf8100e422bfca190d690ba78f2eae58093ed24da78193350"
+    },
+    {
+      "file": "逐帧PNG/running-left/03.png",
+      "sha256": "f93ee515dcb5f89d555690af00547385ba0af49032b17418d036c21f086bfae7"
+    },
+    {
+      "file": "逐帧PNG/running-left/04.png",
+      "sha256": "b219e4074760e5b696bff01bc79151f0f29abcd76357fbaeb663263d7f7a59fd"
+    },
+    {
+      "file": "逐帧PNG/running-left/05.png",
+      "sha256": "ccac512842953f2d5be97dd36533c1eb39385c3d5e0b11ca03291fa3c0cdfa39"
+    },
+    {
+      "file": "逐帧PNG/running-left/06.png",
+      "sha256": "f3a144a3d27db6554517b983da451f1a7d034452fe66436a5e45f4c9f3fc5c0d"
+    },
+    {
+      "file": "逐帧PNG/running-left/07.png",
+      "sha256": "e46227748dcf13cca2a4ba737823bccd9b375b449001f8d8c0cfdc339187e107"
+    },
+    {
+      "file": "逐帧PNG/running-right/00.png",
+      "sha256": "a08e7ce3ea7d7a6a5864d4f0dc02c7facf6d73875f304fa3abc43d695fd3fdf0"
+    },
+    {
+      "file": "逐帧PNG/running-right/01.png",
+      "sha256": "e7a44dfe028fd3ed321f4e4621ae87afc69db585ccd5ede5e6de5408283301f5"
+    },
+    {
+      "file": "逐帧PNG/running-right/02.png",
+      "sha256": "c9830e917da891799c6d27385f9dd1e3d996e41a1f188ef8b7600098895fa9c7"
+    },
+    {
+      "file": "逐帧PNG/running-right/03.png",
+      "sha256": "77ddafe67cc373306311c0f262637281afc78091240ebea9f9a0005ec5b1a93b"
+    },
+    {
+      "file": "逐帧PNG/running-right/04.png",
+      "sha256": "e99cd3607d194c61cfaff70bcee5747ea71bcbbeb705398474771e0b2d2ce665"
+    },
+    {
+      "file": "逐帧PNG/running-right/05.png",
+      "sha256": "5792fa3a679bf32130047eb44eaac467b4d79ecf09a27182bbbc9f8165edc825"
+    },
+    {
+      "file": "逐帧PNG/running-right/06.png",
+      "sha256": "9231bcca28ffea3bc31510601551e2eb37c9e7e1c453f86e9ee2a58e08857ac4"
+    },
+    {
+      "file": "逐帧PNG/running-right/07.png",
+      "sha256": "9e58d57a30c2ee7f8b282a18e067110cb93cbbe4c1b9f36c1093205d52f66915"
+    },
+    {
+      "file": "逐帧PNG/waiting/00.png",
+      "sha256": "a7e94ea07fc0397b7774beb6560cfab2a26d947c1941efb1dea7a28a55ce0d9c"
+    },
+    {
+      "file": "逐帧PNG/waiting/01.png",
+      "sha256": "42b9a91d3ad862fc142a83c4df4afda14a851a8557494b47da17e7c545ba03c9"
+    },
+    {
+      "file": "逐帧PNG/waiting/02.png",
+      "sha256": "3b4afedd2ecacb82d274da03aa6b5e5a70f21132620f5b18cbb5e3c8db878be3"
+    },
+    {
+      "file": "逐帧PNG/waiting/03.png",
+      "sha256": "32688460243adb45d81023f7fcae84c872948a0ce0042377f6b15622f915ef0f"
+    },
+    {
+      "file": "逐帧PNG/waiting/04.png",
+      "sha256": "1a7467c5bd2e1c64b7f9499ba7db865117a90e8faa240fd4d2b60b6d65f90348"
+    },
+    {
+      "file": "逐帧PNG/waiting/05.png",
+      "sha256": "74457c71bd589edfe995616307e736cffc0c7a390be2d749770760cf9b80c55e"
+    },
+    {
+      "file": "逐帧PNG/waving/00.png",
+      "sha256": "00a18932a67f30e2875b63d4312bcb931df652e3cdc4e6f9cd2873e281e399c0"
+    },
+    {
+      "file": "逐帧PNG/waving/01.png",
+      "sha256": "2be855923b289fd2483074723c59a3f68250f34c4ed57f127a9a42f17bd78e0f"
+    },
+    {
+      "file": "逐帧PNG/waving/02.png",
+      "sha256": "de37d7d1fa7eb1776774d7d721cc2800af6143371a71c859f2f75e823e06fc98"
+    },
+    {
+      "file": "逐帧PNG/waving/03.png",
+      "sha256": "f366929e50b43dea67e8720ee9c80190d47a474d1c8d9e68d307ebb3938c11e8"
+    },
+    {
+      "file": "预览/all-states.gif",
+      "sha256": "149df88ff1443fff4fd6074186947829aa4a413f78c21eee803e8df8a465bc2b"
+    },
+    {
+      "file": "预览/failed.gif",
+      "sha256": "4a9593222f1a7d0cdfbce7e4b497b60369230a4651ffe3ecf374249901d2523a"
+    },
+    {
+      "file": "预览/idle-hover-idle.gif",
+      "sha256": "42580a0f3bb9212c30af406f589a87964f1ba7699f2165c5255ed721b0f5034c"
+    },
+    {
+      "file": "预览/idle.gif",
+      "sha256": "65fb358c924140700def8d0ed78c0419b863c118f0da53b1a8835a77a3eaa79c"
+    },
+    {
+      "file": "预览/jumping.gif",
+      "sha256": "18952ce5e9c86507b02103f518bcc1aeb0acf815baaf25d447f40d1635b84f20"
+    },
+    {
+      "file": "预览/look-loop.gif",
+      "sha256": "c0a1758c1d7264704497a90d9d3b0daaeca847e762996f296e0296023dfbacf3"
+    },
+    {
+      "file": "预览/review.gif",
+      "sha256": "d3b27a2849ad998f80cc79f840c8e6a0df19b57a9e088bb25af21ec36d187538"
+    },
+    {
+      "file": "预览/running-left.gif",
+      "sha256": "c7a7f7c3eae51d32986995497de82f326e354bac1cd59800f9b3a06bcf666d8b"
+    },
+    {
+      "file": "预览/running-right.gif",
+      "sha256": "e54c39e66aac7d39c1028d29cc012d806d7531af95ad02473dea0d3726822bb3"
+    },
+    {
+      "file": "预览/running.gif",
+      "sha256": "63469b8bad4700143c667960ed57529879da2032b5e7437753ba321ecaef5d01"
+    },
+    {
+      "file": "预览/waiting.gif",
+      "sha256": "d96a4856ae073b12d11f3be16fc569285c1e3061268c3f8a49bab5fee879d292"
+    },
+    {
+      "file": "预览/waving.gif",
+      "sha256": "45c909439151f6f79a452c93fba62808b0d0c3c7b07d8b4a31a0b8872117de53"
+    },
+    {
+      "file": "验证/chroma-despill-extended.json",
+      "sha256": "4a22cb08f7c50c8a26307bac0ae2d1e275e13c01aee27def11b461ea78060ab1"
+    },
+    {
+      "file": "验证/look-continuity.json",
+      "sha256": "1748c51d37bc45ef180b89dd2920630a29dbf4176290d80a242759b655107ffc"
+    },
+    {
+      "file": "验证/review.json",
+      "sha256": "e5d4888595f7b37900815a20d60cdb81367369ab24dd80121d26b785d0994e1b"
+    },
+    {
+      "file": "验证/validation-extended.json",
+      "sha256": "bbbc7a7762442aa6772d6492422578ce387ecc2dd226fe3163112db483affadf"
+    },
+    {
+      "file": "验证/素材完整性.json",
+      "sha256": "51b357466685e039f88189493fb82c09bd24988c2d5a77b65f48fe3eb90167ab"
+    }
+  ],
+  "builder_sha256": "6f5fb008b2fdb6ab3da46e83792990be6f51ecbec8c72cef2ac9acdbd33b877b",
+  "bundled_tools": [
+    {
+      "file": "extract_strip_frames.py",
+      "sha256": "af2cfea385189df30674c91f4658a49e5b51e58471057fbca0b3319cf932c75e"
+    },
+    {
+      "file": "inspect_frames.py",
+      "sha256": "d8a43f01970c511c74f77d256c2c81d41e70cfb7ec234f5bbd76b60b3ebbdfe4"
+    },
+    {
+      "file": "compose_atlas.py",
+      "sha256": "d690f42252746b3306007b269168e62cff08b36d58e9aef246b78d986b6a10d5"
+    },
+    {
+      "file": "assemble_extended_atlas.py",
+      "sha256": "a8684c22e9409f1add388688218c8fa7e267b88b91fcb3edc3280dc87ebf1c3e"
+    },
+    {
+      "file": "despill_chroma_edges.py",
+      "sha256": "dc93a5e752f4100e55010205462a8e7272bac451ee7e29b525abd6157a7fe309"
+    },
+    {
+      "file": "validate_atlas.py",
+      "sha256": "cd28f7e3ed4fc7d879239cbf4d4a5ae1fb603f457b14560ef2c8e15899507b6b"
+    },
+    {
+      "file": "measure_direction_continuity.py",
+      "sha256": "e24b7065af82eab5638f1fcdeb627d497391a2f1e9ba19801827d1db3a6d8c2d"
+    },
+    {
+      "file": "render_animation_previews.py",
+      "sha256": "5fe50707052f815964cc5bfc35addc79b2d55f3331fc7562645e56835211a400"
+    },
+    {
+      "file": "make_contact_sheet.py",
+      "sha256": "721399a805ae58d91a85a4d27e8bb3503eb20f4132fe4261e83acc166adc6a56"
+    },
+    {
+      "file": "make_direction_qa_sheet.py",
+      "sha256": "ed09a31b3bc9b68f929a7a85be367c5b7d5639215260f98af6c97df896197908"
+    }
+  ]
+}

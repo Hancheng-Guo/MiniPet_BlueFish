@@ -1,14 +1,14 @@
 {
-  "scope": "local_asset_integrity_only",
-  "checked_date": "2026-11-01",
+  "scope": "source_derived_local_build",
   "atlas": "spritesheet.png",
-  "sha256": "27810fec64d271cf3461526d7b58c63db5dc86687491f95325afa75d7d8a772d",
+  "sha256": "3716e429ece512167d8e03bf99358439218728f8744223032acf5912150172e3",
   "width": 1536,
   "height": 2288,
   "frame_count": 73,
   "cell_width": 192,
   "cell_height": 208,
   "all_frame_pixels_match_atlas": true,
+  "local_atlas_validation_ok": true,
   "official_pet_validation_run": false,
-  "notes": "仅检查整理后的文件与像素对应关系；不替代正式结构检查、动作语义、透明留白、方向质量或上传预检。"
+  "notes": "由当前创作素材构建；通过本地结构检查，未执行线上预检或完整画面语义验收。"
 }

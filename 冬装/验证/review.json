@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "frames_root": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames",
+  "frames_root": ".\\逐帧PNG",
   "states": [
     "idle",
     "running-right",
@@ -26,7 +26,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\idle\\00.png",
+          "file": ".\\逐帧PNG\\idle\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19215,
@@ -37,11 +37,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 91
+          "chroma_adjacent_pixels": 2
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\idle\\01.png",
+          "file": ".\\逐帧PNG\\idle\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19110,
@@ -52,11 +52,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 95
+          "chroma_adjacent_pixels": 1
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\idle\\02.png",
+          "file": ".\\逐帧PNG\\idle\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18942,
@@ -67,11 +67,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 79
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\idle\\03.png",
+          "file": ".\\逐帧PNG\\idle\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19137,
@@ -82,11 +82,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 86
+          "chroma_adjacent_pixels": 2
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\idle\\04.png",
+          "file": ".\\逐帧PNG\\idle\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18946,
@@ -97,11 +97,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 68
+          "chroma_adjacent_pixels": 1
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\idle\\05.png",
+          "file": ".\\逐帧PNG\\idle\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19210,
@@ -112,7 +112,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 92
+          "chroma_adjacent_pixels": 1
         }
       ]
     },
@@ -127,7 +127,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\00.png",
+          "file": ".\\逐帧PNG\\running-right\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15113,
@@ -138,11 +138,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 146
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\01.png",
+          "file": ".\\逐帧PNG\\running-right\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15323,
@@ -153,11 +153,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 132
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\02.png",
+          "file": ".\\逐帧PNG\\running-right\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15442,
@@ -168,11 +168,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 129
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\03.png",
+          "file": ".\\逐帧PNG\\running-right\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15009,
@@ -183,11 +183,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 142
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\04.png",
+          "file": ".\\逐帧PNG\\running-right\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14876,
@@ -198,11 +198,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 146
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\05.png",
+          "file": ".\\逐帧PNG\\running-right\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15524,
@@ -213,11 +213,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 141
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 6,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\06.png",
+          "file": ".\\逐帧PNG\\running-right\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15423,
@@ -228,11 +228,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 168
+          "chroma_adjacent_pixels": 2
         },
         {
           "index": 7,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-right\\07.png",
+          "file": ".\\逐帧PNG\\running-right\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15518,
@@ -243,7 +243,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -258,7 +258,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\00.png",
+          "file": ".\\逐帧PNG\\running-left\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15612,
@@ -269,11 +269,11 @@
             202
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 171
+          "chroma_adjacent_pixels": 2
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\01.png",
+          "file": ".\\逐帧PNG\\running-left\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15401,
@@ -284,11 +284,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\02.png",
+          "file": ".\\逐帧PNG\\running-left\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14940,
@@ -299,11 +299,11 @@
             201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 135
+          "chroma_adjacent_pixels": 3
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\03.png",
+          "file": ".\\逐帧PNG\\running-left\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14949,
@@ -314,11 +314,11 @@
             201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 128
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\04.png",
+          "file": ".\\逐帧PNG\\running-left\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14654,
@@ -329,11 +329,11 @@
             201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 119
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\05.png",
+          "file": ".\\逐帧PNG\\running-left\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15341,
@@ -344,11 +344,11 @@
             202
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 125
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 6,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\06.png",
+          "file": ".\\逐帧PNG\\running-left\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 15085,
@@ -359,11 +359,11 @@
             201
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 118
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 7,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running-left\\07.png",
+          "file": ".\\逐帧PNG\\running-left\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 14959,
@@ -374,7 +374,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 139
+          "chroma_adjacent_pixels": 3
         }
       ]
     },
@@ -389,7 +389,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waving\\00.png",
+          "file": ".\\逐帧PNG\\waving\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19683,
@@ -400,11 +400,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 56
+          "chroma_adjacent_pixels": 1
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waving\\01.png",
+          "file": ".\\逐帧PNG\\waving\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19442,
@@ -415,11 +415,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 42
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waving\\02.png",
+          "file": ".\\逐帧PNG\\waving\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19931,
@@ -430,11 +430,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 43
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waving\\03.png",
+          "file": ".\\逐帧PNG\\waving\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19555,
@@ -445,7 +445,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 64
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -460,7 +460,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\jumping\\00.png",
+          "file": ".\\逐帧PNG\\jumping\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19024,
@@ -471,11 +471,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 103
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\jumping\\01.png",
+          "file": ".\\逐帧PNG\\jumping\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19311,
@@ -486,11 +486,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 98
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\jumping\\02.png",
+          "file": ".\\逐帧PNG\\jumping\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19468,
@@ -501,11 +501,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 84
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\jumping\\03.png",
+          "file": ".\\逐帧PNG\\jumping\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19506,
@@ -516,11 +516,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 89
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\jumping\\04.png",
+          "file": ".\\逐帧PNG\\jumping\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19416,
@@ -531,7 +531,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 89
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -546,7 +546,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\00.png",
+          "file": ".\\逐帧PNG\\failed\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18603,
@@ -557,11 +557,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 132
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\01.png",
+          "file": ".\\逐帧PNG\\failed\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18072,
@@ -572,11 +572,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 156
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\02.png",
+          "file": ".\\逐帧PNG\\failed\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17900,
@@ -587,11 +587,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 156
+          "chroma_adjacent_pixels": 1
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\03.png",
+          "file": ".\\逐帧PNG\\failed\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17822,
@@ -602,11 +602,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 151
+          "chroma_adjacent_pixels": 2
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\04.png",
+          "file": ".\\逐帧PNG\\failed\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18011,
@@ -617,11 +617,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 161
+          "chroma_adjacent_pixels": 3
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\05.png",
+          "file": ".\\逐帧PNG\\failed\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18202,
@@ -632,11 +632,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 149
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 6,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\06.png",
+          "file": ".\\逐帧PNG\\failed\\06.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18171,
@@ -647,11 +647,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 140
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 7,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\failed\\07.png",
+          "file": ".\\逐帧PNG\\failed\\07.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18398,
@@ -662,7 +662,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 138
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -677,7 +677,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waiting\\00.png",
+          "file": ".\\逐帧PNG\\waiting\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18696,
@@ -688,11 +688,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 88
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waiting\\01.png",
+          "file": ".\\逐帧PNG\\waiting\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 17928,
@@ -703,11 +703,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 88
+          "chroma_adjacent_pixels": 4
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waiting\\02.png",
+          "file": ".\\逐帧PNG\\waiting\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18075,
@@ -718,11 +718,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 98
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waiting\\03.png",
+          "file": ".\\逐帧PNG\\waiting\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18098,
@@ -733,11 +733,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 93
+          "chroma_adjacent_pixels": 5
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waiting\\04.png",
+          "file": ".\\逐帧PNG\\waiting\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18006,
@@ -748,11 +748,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 80
+          "chroma_adjacent_pixels": 3
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\waiting\\05.png",
+          "file": ".\\逐帧PNG\\waiting\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18588,
@@ -763,7 +763,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 78
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -778,7 +778,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running\\00.png",
+          "file": ".\\逐帧PNG\\running\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19608,
@@ -789,11 +789,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 140
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running\\01.png",
+          "file": ".\\逐帧PNG\\running\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18833,
@@ -804,11 +804,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 123
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running\\02.png",
+          "file": ".\\逐帧PNG\\running\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18942,
@@ -819,11 +819,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 111
+          "chroma_adjacent_pixels": 1
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running\\03.png",
+          "file": ".\\逐帧PNG\\running\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 20036,
@@ -834,11 +834,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 136
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running\\04.png",
+          "file": ".\\逐帧PNG\\running\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19214,
@@ -849,11 +849,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 124
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\running\\05.png",
+          "file": ".\\逐帧PNG\\running\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19403,
@@ -864,7 +864,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 125
+          "chroma_adjacent_pixels": 0
         }
       ]
     },
@@ -879,7 +879,7 @@
       "frames": [
         {
           "index": 0,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\review\\00.png",
+          "file": ".\\逐帧PNG\\review\\00.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19019,
@@ -890,11 +890,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 140
+          "chroma_adjacent_pixels": 1
         },
         {
           "index": 1,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\review\\01.png",
+          "file": ".\\逐帧PNG\\review\\01.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18576,
@@ -905,11 +905,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 146
+          "chroma_adjacent_pixels": 2
         },
         {
           "index": 2,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\review\\02.png",
+          "file": ".\\逐帧PNG\\review\\02.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18891,
@@ -920,11 +920,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 127
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 3,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\review\\03.png",
+          "file": ".\\逐帧PNG\\review\\03.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 18922,
@@ -935,11 +935,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 166
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 4,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\review\\04.png",
+          "file": ".\\逐帧PNG\\review\\04.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19005,
@@ -950,11 +950,11 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 162
+          "chroma_adjacent_pixels": 0
         },
         {
           "index": 5,
-          "file": "C:\\Users\\hch_g\\Documents\\Codex\\2026-10-24\\pets-plugin-work-pets-openai-curated\\work\\blue-chubby-fish-girl-winter\\frames\\review\\05.png",
+          "file": ".\\逐帧PNG\\review\\05.png",
           "width": 192,
           "height": 208,
           "nontransparent_pixels": 19010,
@@ -965,7 +965,7 @@
             203
           ],
           "edge_pixels": 0,
-          "chroma_adjacent_pixels": 159
+          "chroma_adjacent_pixels": 2
         }
       ]
     }
