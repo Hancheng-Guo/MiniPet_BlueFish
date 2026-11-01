@@ -1,11 +1,16 @@
 {
+  "schema_version": 1,
   "name": "蓝色大肥鱼",
+  "description": "蓝发小鲸鱼女孩，陪伴日常工作；悬停时吃白米饭。",
   "pet_id": "pet_6adcc97350908191bd31a1ef64bc113e",
-  "export_date": "2026-10-27",
+  "pet_id_source": "原项目导出记录，未查询线上状态",
   "sprite_version": 2,
   "atlas": {
+    "file": "spritesheet.png",
     "width": 1536,
     "height": 2288,
+    "columns": 8,
+    "rows": 11,
     "cell_width": 192,
     "cell_height": 208,
     "sha256": "1b35c7ac58f7c0c1d314821dfc633c217a7c0a81c49b7a226c843a8822707d9f"
@@ -15,440 +20,605 @@
       "state": "idle",
       "index": 0,
       "row": 0,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/idle/00.png",
+      "sha256": "f84e197cbc4097640ae8bd1b0d04442c53fce8e0f397e43ace72978def30c45f"
     },
     {
       "state": "idle",
       "index": 1,
       "row": 0,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/idle/01.png",
+      "sha256": "3e2e58744ee002b908f535ac724b7736018bc3a02cb43af9bf9a686d5ab9e3ca"
     },
     {
       "state": "idle",
       "index": 2,
       "row": 0,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/idle/02.png",
+      "sha256": "baea0068dfe5f24fca82a5b2d9104f1ef6c1ad7b8f5e682694144c709a60fb0d"
     },
     {
       "state": "idle",
       "index": 3,
       "row": 0,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/idle/03.png",
+      "sha256": "007871b54c256386ec9038ee3ed2785dbbee22e789d121a64c5ee0574def1a5a"
     },
     {
       "state": "idle",
       "index": 4,
       "row": 0,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/idle/04.png",
+      "sha256": "4f2711168d36f500dafd1b1fe87ab64a26580e46664a709e10f76010026e0db2"
     },
     {
       "state": "idle",
       "index": 5,
       "row": 0,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/idle/05.png",
+      "sha256": "68ec18e12c4fb6cede462fc4776f3e3e2c23beed43dddd21e1dee19f7d7a75ec"
     },
     {
       "state": "running-right",
       "index": 0,
       "row": 1,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/running-right/00.png",
+      "sha256": "fb3b958b6a9e8022ea460f4c4cf78670ce4ac9563300b6fb1ede327424aad8b0"
     },
     {
       "state": "running-right",
       "index": 1,
       "row": 1,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/running-right/01.png",
+      "sha256": "983bb160c8ac02305433aba1c0a79166cf06136edd7a76b06e45538138529c6e"
     },
     {
       "state": "running-right",
       "index": 2,
       "row": 1,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/running-right/02.png",
+      "sha256": "0984ae83b00ae84fac647bc0ebceb64d8740b44cfe398653b4f2d950849a20e1"
     },
     {
       "state": "running-right",
       "index": 3,
       "row": 1,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/running-right/03.png",
+      "sha256": "fd1156ab8958c115a48226e725bd63a610a9760fa31e93b1f4b6e0444f2deefd"
     },
     {
       "state": "running-right",
       "index": 4,
       "row": 1,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/running-right/04.png",
+      "sha256": "a4f7cbc1146d48f943a0931b9f188eb2adb44c1c5cd6da3283a493ea9db0cb6f"
     },
     {
       "state": "running-right",
       "index": 5,
       "row": 1,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/running-right/05.png",
+      "sha256": "a834e0bf3afae6723854e8af859e11acf3d5f5d6033bb6fb70645c4081268aa4"
     },
     {
       "state": "running-right",
       "index": 6,
       "row": 1,
-      "column": 6
+      "column": 6,
+      "file": "逐帧PNG/running-right/06.png",
+      "sha256": "49694dfa82195af6cfb52d8ff2641f27d2eb9fa9c2ed4d9563159cf0f818e4c6"
     },
     {
       "state": "running-right",
       "index": 7,
       "row": 1,
-      "column": 7
+      "column": 7,
+      "file": "逐帧PNG/running-right/07.png",
+      "sha256": "f4c8f2312a1f9d383df547ddaeb8b9e269225cb50ef9a492c932d48e1544586c"
     },
     {
       "state": "running-left",
       "index": 0,
       "row": 2,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/running-left/00.png",
+      "sha256": "e798bd34776543c404e10325bd18b1bcf608c16434346dfdae99617b3ea8a10f"
     },
     {
       "state": "running-left",
       "index": 1,
       "row": 2,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/running-left/01.png",
+      "sha256": "73ad237f141595b287965d0d526af28882c069839100f7db72705dc654e74472"
     },
     {
       "state": "running-left",
       "index": 2,
       "row": 2,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/running-left/02.png",
+      "sha256": "509719d557ed1acf751dd6554627a6d6b13540bafabaf8aa25acebc52b098cf6"
     },
     {
       "state": "running-left",
       "index": 3,
       "row": 2,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/running-left/03.png",
+      "sha256": "3c3fd3d6ce13a39d937960925c63695e44282bd40eb2bd55601c56fbbeba4649"
     },
     {
       "state": "running-left",
       "index": 4,
       "row": 2,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/running-left/04.png",
+      "sha256": "249eb5b8e6b2d7903aa439d9e8f4794569e8f3c5812f239ee61ef0512394eddc"
     },
     {
       "state": "running-left",
       "index": 5,
       "row": 2,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/running-left/05.png",
+      "sha256": "dd1b2b0f07bbcd3ab8d6cd4cd7e32acc3f27419206622ee29b9de869164cb6eb"
     },
     {
       "state": "running-left",
       "index": 6,
       "row": 2,
-      "column": 6
+      "column": 6,
+      "file": "逐帧PNG/running-left/06.png",
+      "sha256": "6287710fc2aa5db7205be28ed8cd2b37779a281d22fb47622f657257393ce9b7"
     },
     {
       "state": "running-left",
       "index": 7,
       "row": 2,
-      "column": 7
+      "column": 7,
+      "file": "逐帧PNG/running-left/07.png",
+      "sha256": "a394ef0de9b5913441a898cf1aa5ed61a32d9f51fa8b405ea30d9db6ebfd0328"
     },
     {
       "state": "waving",
       "index": 0,
       "row": 3,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/waving/00.png",
+      "sha256": "7aeb551b95232290e8bcfe3e80fda8b6e33d2253e55b82b057ee483e806d03e5"
     },
     {
       "state": "waving",
       "index": 1,
       "row": 3,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/waving/01.png",
+      "sha256": "2723dd8376ddca3c58a25d7c15a642fba762cd239b0d22b5cf0ad595b0643437"
     },
     {
       "state": "waving",
       "index": 2,
       "row": 3,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/waving/02.png",
+      "sha256": "49e5dc56abafed68e2caaedfadab03bc806346c007a54e2e9b18fd5d27bca1a2"
     },
     {
       "state": "waving",
       "index": 3,
       "row": 3,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/waving/03.png",
+      "sha256": "35d5f64ecb37e38104442b1329bf113db6f6d63e54b566331723038fda1da7a5"
     },
     {
-      "state": "jumping-hover-eating",
+      "state": "jumping",
       "index": 0,
       "row": 4,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/jumping/00.png",
+      "sha256": "792afbf02da593f7e0c555e40bf5d0533e1a0370c01316edef31b9388358f28f"
     },
     {
-      "state": "jumping-hover-eating",
+      "state": "jumping",
       "index": 1,
       "row": 4,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/jumping/01.png",
+      "sha256": "d5e94a60b51ee19f77a1ec127cde904ceb12de7a5fe5432d2380144618c25ae6"
     },
     {
-      "state": "jumping-hover-eating",
+      "state": "jumping",
       "index": 2,
       "row": 4,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/jumping/02.png",
+      "sha256": "db0fc6017ed3a3113fcb0dd5fe01c18bf8b1b956d7386a3bbd2cf579f15f56fb"
     },
     {
-      "state": "jumping-hover-eating",
+      "state": "jumping",
       "index": 3,
       "row": 4,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/jumping/03.png",
+      "sha256": "04e669d6fa9e29753f704c7a46a5ba28941a0f2d045ce229b2ba2b29b258e463"
     },
     {
-      "state": "jumping-hover-eating",
+      "state": "jumping",
       "index": 4,
       "row": 4,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/jumping/04.png",
+      "sha256": "fc0f3daf55485ae3620c35fbd0c40fff616576d9704e309136da0a7919df11e1"
     },
     {
       "state": "failed",
       "index": 0,
       "row": 5,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/failed/00.png",
+      "sha256": "cee8d7c5a6cdeb27e0fdc49be5c39bc1003ca9e8b981bd9af979c43a004c669b"
     },
     {
       "state": "failed",
       "index": 1,
       "row": 5,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/failed/01.png",
+      "sha256": "03623b839a2f50b2bd392b9d25a01d9091d7826b0dfa7464ab642ed1469abe0f"
     },
     {
       "state": "failed",
       "index": 2,
       "row": 5,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/failed/02.png",
+      "sha256": "2bb33275c190fc45ee3f0352fbd411ea456659f87a0d752631d3fef70a3c6359"
     },
     {
       "state": "failed",
       "index": 3,
       "row": 5,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/failed/03.png",
+      "sha256": "5e7a104dc0d4ca32830a148990d48edd39aa32097fcdacf7688e4a9dadf2dc69"
     },
     {
       "state": "failed",
       "index": 4,
       "row": 5,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/failed/04.png",
+      "sha256": "91b51faceb9bcf9260c7d670695b005617f26f23a65aa21832819c18900faa31"
     },
     {
       "state": "failed",
       "index": 5,
       "row": 5,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/failed/05.png",
+      "sha256": "2afe8d50b45d3247b643022ec305e613210af2e37c6b037e6262d50074b87b57"
     },
     {
       "state": "failed",
       "index": 6,
       "row": 5,
-      "column": 6
+      "column": 6,
+      "file": "逐帧PNG/failed/06.png",
+      "sha256": "e96c80ced71e363d08dd68fbb57ee20d45d4c54ed682f339f0b1db8b6ae43ef5"
     },
     {
       "state": "failed",
       "index": 7,
       "row": 5,
-      "column": 7
+      "column": 7,
+      "file": "逐帧PNG/failed/07.png",
+      "sha256": "54e75c32ff4f467fcd990740e8b6045ab181b9fc48230391a79f44b79d0376df"
     },
     {
       "state": "waiting",
       "index": 0,
       "row": 6,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/waiting/00.png",
+      "sha256": "5cd950759359208de7c62a5fff517f6a3076bae9f0981e69c3785d627445be3f"
     },
     {
       "state": "waiting",
       "index": 1,
       "row": 6,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/waiting/01.png",
+      "sha256": "b7039638eff3e776844c87572119cee994efe24ded0acf620eb21e37fdf8eeb6"
     },
     {
       "state": "waiting",
       "index": 2,
       "row": 6,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/waiting/02.png",
+      "sha256": "f93bbf52a17880e16a9cd287754eb217ed7213364428e6ffd6c7e9963ee0dd86"
     },
     {
       "state": "waiting",
       "index": 3,
       "row": 6,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/waiting/03.png",
+      "sha256": "7cb413bd06e2c9a8630ac4f3fed830d9b6c31344e7b7b7f81bb89e65677b3446"
     },
     {
       "state": "waiting",
       "index": 4,
       "row": 6,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/waiting/04.png",
+      "sha256": "3c97b29323ea04d895ae857554edb9e8352aaa353f82af1931cf35087baa3c81"
     },
     {
       "state": "waiting",
       "index": 5,
       "row": 6,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/waiting/05.png",
+      "sha256": "27e72a616b16832b7df96a12b2c248adcfb745de86ae5d19c2d83c5f144a16bb"
     },
     {
       "state": "running",
       "index": 0,
       "row": 7,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/running/00.png",
+      "sha256": "2ae41e78fa608ccabd9edfa0ab3a59fbb0b1021e7dd9729793c78c7062efc496"
     },
     {
       "state": "running",
       "index": 1,
       "row": 7,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/running/01.png",
+      "sha256": "f17f06b393b9832190422b344ccaad27f1a6babf9eb5a4752fdf7ea72750e486"
     },
     {
       "state": "running",
       "index": 2,
       "row": 7,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/running/02.png",
+      "sha256": "3d0ac430458d200a734ed0ded1d1f8b8cc9080224b553fb6e5851ae2b38959c7"
     },
     {
       "state": "running",
       "index": 3,
       "row": 7,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/running/03.png",
+      "sha256": "8f0e7b1b46e14bfb7887d20eb48f4c3e9e09957534cf51e44bbd23562a4b15a0"
     },
     {
       "state": "running",
       "index": 4,
       "row": 7,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/running/04.png",
+      "sha256": "9a2fcfe517ac7020b60a89435ea7430a90ea5e13c8b05f904442469f9f994c01"
     },
     {
       "state": "running",
       "index": 5,
       "row": 7,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/running/05.png",
+      "sha256": "51df6bdf16da31297a91dde5a8da25873fe2931c8ff7f5c833e3ab71a295fa62"
     },
     {
       "state": "review",
       "index": 0,
       "row": 8,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/review/00.png",
+      "sha256": "1cdc49de6210f52a8e5beeba7cf3b043c1a7cd2609e53eb4f026976933d255c6"
     },
     {
       "state": "review",
       "index": 1,
       "row": 8,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/review/01.png",
+      "sha256": "09f5ba77a8cb1a47452c82a71ff1112e441b82b249724d14d1182d707c32809e"
     },
     {
       "state": "review",
       "index": 2,
       "row": 8,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/review/02.png",
+      "sha256": "7578572093036b5f0bc927e27c81430057756ceea84decdf84d29b1316e69369"
     },
     {
       "state": "review",
       "index": 3,
       "row": 8,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/review/03.png",
+      "sha256": "545d7e10b51ae50e01e7dc442649c5bf4cda843a7957e2ea7069b750172f79a0"
     },
     {
       "state": "review",
       "index": 4,
       "row": 8,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/review/04.png",
+      "sha256": "839a53b5daca7e9c66da83866eaa67b746befccdb83a337dd3658317dc891e3f"
     },
     {
       "state": "review",
       "index": 5,
       "row": 8,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/review/05.png",
+      "sha256": "e44dca928165969cf6afe000b64a2de76be12a497b0beda6c222a29293e9ce49"
     },
     {
       "state": "look",
       "index": 0,
       "row": 9,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/look/00.png",
+      "sha256": "5d73a64eb6ad713638c9ca2ea5717fa50c1025f118779bc37b536c9a35649b53",
+      "angle_degrees": 0.0
     },
     {
       "state": "look",
       "index": 1,
       "row": 9,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/look/01.png",
+      "sha256": "0e8296be93552297cd0284257077548ba7631223fdb36ef59da6d1e8161f5b33",
+      "angle_degrees": 22.5
     },
     {
       "state": "look",
       "index": 2,
       "row": 9,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/look/02.png",
+      "sha256": "b79821963feeeb36c1e10f637b307324312eaa7c3256b024b7fec6d347a39502",
+      "angle_degrees": 45.0
     },
     {
       "state": "look",
       "index": 3,
       "row": 9,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/look/03.png",
+      "sha256": "1a324e1f864d678d14f948a3c99badd5ae566fb4f92b9d1c9812c38812126c93",
+      "angle_degrees": 67.5
     },
     {
       "state": "look",
       "index": 4,
       "row": 9,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/look/04.png",
+      "sha256": "0304eb8c55557450867a8e17aa95e07bf336049f38570506f5e2b2892d035bc8",
+      "angle_degrees": 90.0
     },
     {
       "state": "look",
       "index": 5,
       "row": 9,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/look/05.png",
+      "sha256": "c2e27e8102c999e902b5c989dec6abc0b54d30e142e0fb7b60101369dfffaab4",
+      "angle_degrees": 112.5
     },
     {
       "state": "look",
       "index": 6,
       "row": 9,
-      "column": 6
+      "column": 6,
+      "file": "逐帧PNG/look/06.png",
+      "sha256": "8994e1a0cca51d3eb738bd7588dfa630a3d1f3a72d78c84761bb010c50ed2a4f",
+      "angle_degrees": 135.0
     },
     {
       "state": "look",
       "index": 7,
       "row": 9,
-      "column": 7
+      "column": 7,
+      "file": "逐帧PNG/look/07.png",
+      "sha256": "f6afc961e17bd439379c593191257eb23993e7f058012cd2a17b01fddb4efbf3",
+      "angle_degrees": 157.5
     },
     {
       "state": "look",
       "index": 8,
       "row": 10,
-      "column": 0
+      "column": 0,
+      "file": "逐帧PNG/look/08.png",
+      "sha256": "431b8df565bf022dd23152490e76025b88723b73c3e962c09e447f440cb22169",
+      "angle_degrees": 180.0
     },
     {
       "state": "look",
       "index": 9,
       "row": 10,
-      "column": 1
+      "column": 1,
+      "file": "逐帧PNG/look/09.png",
+      "sha256": "345f06f7690da0b8c9b5a635a20eed613c06be2d4cf82f076e07dca0454b8dbc",
+      "angle_degrees": 202.5
     },
     {
       "state": "look",
       "index": 10,
       "row": 10,
-      "column": 2
+      "column": 2,
+      "file": "逐帧PNG/look/10.png",
+      "sha256": "0821d474586bf738809d85178770b97b84a193bc10ffed9e43670e36022ccda1",
+      "angle_degrees": 225.0
     },
     {
       "state": "look",
       "index": 11,
       "row": 10,
-      "column": 3
+      "column": 3,
+      "file": "逐帧PNG/look/11.png",
+      "sha256": "2fff09d4a982a9a8cea5fa52096c8752df46ad0096967e6da99d932c1a176139",
+      "angle_degrees": 247.5
     },
     {
       "state": "look",
       "index": 12,
       "row": 10,
-      "column": 4
+      "column": 4,
+      "file": "逐帧PNG/look/12.png",
+      "sha256": "cd93d09c76cfa0771fa7f6ed004612159a1c6e500f481a6332d8922df9a35174",
+      "angle_degrees": 270.0
     },
     {
       "state": "look",
       "index": 13,
       "row": 10,
-      "column": 5
+      "column": 5,
+      "file": "逐帧PNG/look/13.png",
+      "sha256": "4dc3c06fe41e475d28085d4037d5c7ed79bfa762029301d0037be77f0cb59899",
+      "angle_degrees": 292.5
     },
     {
       "state": "look",
       "index": 14,
       "row": 10,
-      "column": 6
+      "column": 6,
+      "file": "逐帧PNG/look/14.png",
+      "sha256": "edc280c242639a19c5a2256495e6f204cb3eacac5ab75dcf71edcb0a097840bc",
+      "angle_degrees": 315.0
     },
     {
       "state": "look",
       "index": 15,
       "row": 10,
-      "column": 7
+      "column": 7,
+      "file": "逐帧PNG/look/15.png",
+      "sha256": "08a08cdcaa6a1da6fea507ff2feec7dd4b59f1b6906cfab41d3887b730786cae",
+      "angle_degrees": 337.5
     }
   ],
-  "notes": "当前已选中版本；waiting/01 的画面左侧虹膜颜色已修正。旧版完整编辑素材另存于修改资料。"
+  "notes": [
+    "jumping 为平台标准状态名；本项目沿用吃白米饭的悬停动作。",
+    "此清单用于本地素材管理，并非 ChatGPT 官方导入配置。"
+  ]
 }
