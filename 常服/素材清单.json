@@ -1,0 +1,454 @@
+{
+  "name": "蓝色大肥鱼",
+  "pet_id": "pet_6adcc97350908191bd31a1ef64bc113e",
+  "export_date": "2026-10-27",
+  "sprite_version": 2,
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "cell_width": 192,
+    "cell_height": 208,
+    "sha256": "1b35c7ac58f7c0c1d314821dfc633c217a7c0a81c49b7a226c843a8822707d9f"
+  },
+  "frames": [
+    {
+      "state": "idle",
+      "index": 0,
+      "row": 0,
+      "column": 0
+    },
+    {
+      "state": "idle",
+      "index": 1,
+      "row": 0,
+      "column": 1
+    },
+    {
+      "state": "idle",
+      "index": 2,
+      "row": 0,
+      "column": 2
+    },
+    {
+      "state": "idle",
+      "index": 3,
+      "row": 0,
+      "column": 3
+    },
+    {
+      "state": "idle",
+      "index": 4,
+      "row": 0,
+      "column": 4
+    },
+    {
+      "state": "idle",
+      "index": 5,
+      "row": 0,
+      "column": 5
+    },
+    {
+      "state": "running-right",
+      "index": 0,
+      "row": 1,
+      "column": 0
+    },
+    {
+      "state": "running-right",
+      "index": 1,
+      "row": 1,
+      "column": 1
+    },
+    {
+      "state": "running-right",
+      "index": 2,
+      "row": 1,
+      "column": 2
+    },
+    {
+      "state": "running-right",
+      "index": 3,
+      "row": 1,
+      "column": 3
+    },
+    {
+      "state": "running-right",
+      "index": 4,
+      "row": 1,
+      "column": 4
+    },
+    {
+      "state": "running-right",
+      "index": 5,
+      "row": 1,
+      "column": 5
+    },
+    {
+      "state": "running-right",
+      "index": 6,
+      "row": 1,
+      "column": 6
+    },
+    {
+      "state": "running-right",
+      "index": 7,
+      "row": 1,
+      "column": 7
+    },
+    {
+      "state": "running-left",
+      "index": 0,
+      "row": 2,
+      "column": 0
+    },
+    {
+      "state": "running-left",
+      "index": 1,
+      "row": 2,
+      "column": 1
+    },
+    {
+      "state": "running-left",
+      "index": 2,
+      "row": 2,
+      "column": 2
+    },
+    {
+      "state": "running-left",
+      "index": 3,
+      "row": 2,
+      "column": 3
+    },
+    {
+      "state": "running-left",
+      "index": 4,
+      "row": 2,
+      "column": 4
+    },
+    {
+      "state": "running-left",
+      "index": 5,
+      "row": 2,
+      "column": 5
+    },
+    {
+      "state": "running-left",
+      "index": 6,
+      "row": 2,
+      "column": 6
+    },
+    {
+      "state": "running-left",
+      "index": 7,
+      "row": 2,
+      "column": 7
+    },
+    {
+      "state": "waving",
+      "index": 0,
+      "row": 3,
+      "column": 0
+    },
+    {
+      "state": "waving",
+      "index": 1,
+      "row": 3,
+      "column": 1
+    },
+    {
+      "state": "waving",
+      "index": 2,
+      "row": 3,
+      "column": 2
+    },
+    {
+      "state": "waving",
+      "index": 3,
+      "row": 3,
+      "column": 3
+    },
+    {
+      "state": "jumping-hover-eating",
+      "index": 0,
+      "row": 4,
+      "column": 0
+    },
+    {
+      "state": "jumping-hover-eating",
+      "index": 1,
+      "row": 4,
+      "column": 1
+    },
+    {
+      "state": "jumping-hover-eating",
+      "index": 2,
+      "row": 4,
+      "column": 2
+    },
+    {
+      "state": "jumping-hover-eating",
+      "index": 3,
+      "row": 4,
+      "column": 3
+    },
+    {
+      "state": "jumping-hover-eating",
+      "index": 4,
+      "row": 4,
+      "column": 4
+    },
+    {
+      "state": "failed",
+      "index": 0,
+      "row": 5,
+      "column": 0
+    },
+    {
+      "state": "failed",
+      "index": 1,
+      "row": 5,
+      "column": 1
+    },
+    {
+      "state": "failed",
+      "index": 2,
+      "row": 5,
+      "column": 2
+    },
+    {
+      "state": "failed",
+      "index": 3,
+      "row": 5,
+      "column": 3
+    },
+    {
+      "state": "failed",
+      "index": 4,
+      "row": 5,
+      "column": 4
+    },
+    {
+      "state": "failed",
+      "index": 5,
+      "row": 5,
+      "column": 5
+    },
+    {
+      "state": "failed",
+      "index": 6,
+      "row": 5,
+      "column": 6
+    },
+    {
+      "state": "failed",
+      "index": 7,
+      "row": 5,
+      "column": 7
+    },
+    {
+      "state": "waiting",
+      "index": 0,
+      "row": 6,
+      "column": 0
+    },
+    {
+      "state": "waiting",
+      "index": 1,
+      "row": 6,
+      "column": 1
+    },
+    {
+      "state": "waiting",
+      "index": 2,
+      "row": 6,
+      "column": 2
+    },
+    {
+      "state": "waiting",
+      "index": 3,
+      "row": 6,
+      "column": 3
+    },
+    {
+      "state": "waiting",
+      "index": 4,
+      "row": 6,
+      "column": 4
+    },
+    {
+      "state": "waiting",
+      "index": 5,
+      "row": 6,
+      "column": 5
+    },
+    {
+      "state": "running",
+      "index": 0,
+      "row": 7,
+      "column": 0
+    },
+    {
+      "state": "running",
+      "index": 1,
+      "row": 7,
+      "column": 1
+    },
+    {
+      "state": "running",
+      "index": 2,
+      "row": 7,
+      "column": 2
+    },
+    {
+      "state": "running",
+      "index": 3,
+      "row": 7,
+      "column": 3
+    },
+    {
+      "state": "running",
+      "index": 4,
+      "row": 7,
+      "column": 4
+    },
+    {
+      "state": "running",
+      "index": 5,
+      "row": 7,
+      "column": 5
+    },
+    {
+      "state": "review",
+      "index": 0,
+      "row": 8,
+      "column": 0
+    },
+    {
+      "state": "review",
+      "index": 1,
+      "row": 8,
+      "column": 1
+    },
+    {
+      "state": "review",
+      "index": 2,
+      "row": 8,
+      "column": 2
+    },
+    {
+      "state": "review",
+      "index": 3,
+      "row": 8,
+      "column": 3
+    },
+    {
+      "state": "review",
+      "index": 4,
+      "row": 8,
+      "column": 4
+    },
+    {
+      "state": "review",
+      "index": 5,
+      "row": 8,
+      "column": 5
+    },
+    {
+      "state": "look",
+      "index": 0,
+      "row": 9,
+      "column": 0
+    },
+    {
+      "state": "look",
+      "index": 1,
+      "row": 9,
+      "column": 1
+    },
+    {
+      "state": "look",
+      "index": 2,
+      "row": 9,
+      "column": 2
+    },
+    {
+      "state": "look",
+      "index": 3,
+      "row": 9,
+      "column": 3
+    },
+    {
+      "state": "look",
+      "index": 4,
+      "row": 9,
+      "column": 4
+    },
+    {
+      "state": "look",
+      "index": 5,
+      "row": 9,
+      "column": 5
+    },
+    {
+      "state": "look",
+      "index": 6,
+      "row": 9,
+      "column": 6
+    },
+    {
+      "state": "look",
+      "index": 7,
+      "row": 9,
+      "column": 7
+    },
+    {
+      "state": "look",
+      "index": 8,
+      "row": 10,
+      "column": 0
+    },
+    {
+      "state": "look",
+      "index": 9,
+      "row": 10,
+      "column": 1
+    },
+    {
+      "state": "look",
+      "index": 10,
+      "row": 10,
+      "column": 2
+    },
+    {
+      "state": "look",
+      "index": 11,
+      "row": 10,
+      "column": 3
+    },
+    {
+      "state": "look",
+      "index": 12,
+      "row": 10,
+      "column": 4
+    },
+    {
+      "state": "look",
+      "index": 13,
+      "row": 10,
+      "column": 5
+    },
+    {
+      "state": "look",
+      "index": 14,
+      "row": 10,
+      "column": 6
+    },
+    {
+      "state": "look",
+      "index": 15,
+      "row": 10,
+      "column": 7
+    }
+  ],
+  "notes": "当前已选中版本；waiting/01 的画面左侧虹膜颜色已修正。旧版完整编辑素材另存于修改资料。"
+}

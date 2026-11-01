@@ -1,0 +1,20 @@
+{
+  "directions": {
+    "000": {"expected":"up","observed":"up","verdict":"pass","evidence":"Both blue eyes and chin lift above the neutral facial aim; the head stays frontal."},
+    "022.5": {"expected":"up-right","observed":"up-right","verdict":"pass","evidence":"Eyes lift and shift to screen-right; rightward cheek and hair contour starts to lead."},
+    "045": {"expected":"up-right","observed":"up-right","verdict":"pass","evidence":"Face turns three-quarter screen-right while pupils and chin remain raised."},
+    "067.5": {"expected":"up-right","observed":"up-right","verdict":"pass","evidence":"Nose and visible eye aim screen-right and above the head center; far cheek recedes."},
+    "090": {"expected":"right","observed":"right","verdict":"pass","evidence":"Unmistakable screen-right profile with nose at the right edge of the head and far eye occluded."},
+    "112.5": {"expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Head pitches down and nose, near eye, and exposed cheek remain aimed screen-right."},
+    "135": {"expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Downcast eye and lowered chin combine with an asymmetric right-facing cheek and nose."},
+    "157.5": {"expected":"down-right","observed":"down-right","verdict":"pass","evidence":"Downcast eye is clear and the nose and visible cheek still point screen-right; the blue eye and cheek retain a screen-right bias."},
+    "180": {"expected":"down","observed":"down","verdict":"pass","evidence":"Frontal head tips down, both eyes face the bottom edge, and the chin is lowered."},
+    "202.5": {"expected":"down-left","observed":"down-left","verdict":"pass","evidence":"Head remains down while nose and near eye start turning to screen-left; hair follows."},
+    "225": {"expected":"down-left","observed":"down-left","verdict":"pass","evidence":"Downcast near eye, nose, and cheek clearly occupy the screen-left side of the head."},
+    "247.5": {"expected":"down-left","observed":"down-left","verdict":"pass","evidence":"Face approaches left profile with lowered pupil and chin; far cheek recedes."},
+    "270": {"expected":"left","observed":"left","verdict":"pass","evidence":"Unmistakable screen-left profile with nose at the left edge and far eye hidden."},
+    "292.5": {"expected":"up-left","observed":"up-left","verdict":"pass","evidence":"Left-facing nose and near eye lift above center while long hair stays attached."},
+    "315": {"expected":"up-left","observed":"up-left","verdict":"pass","evidence":"Three-quarter left face has lifted pupils and raised chin, with far cheek partly occluded."},
+    "337.5": {"expected":"up-left","observed":"up-left","verdict":"pass","evidence":"Face returns near frontal but pupils and chin still lift with a slight screen-left bias."}
+  }
+}
